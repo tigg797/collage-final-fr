@@ -1,0 +1,37 @@
+#coolTitle {
+    background: linear-gradient(to right, red, orange, yellow, lime, aqua, blue, pink);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+#warner {
+    opacity: 0.4;
+    color: red;
+}
+#coolWords {
+    color: black;
+}
+.copy_right_footer {
+
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    background-color: palegoldenrod;
+    margin-top: 20px;
+    }
+#camera {
+    width: 500;
+    height: 400;
+}
+
+.column {
+    display: inline;
+    padding: 10px;
+}
+
+.makeSmol {
+    width: 32%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 7px 0 rgba(2,2,2,0.2);
+}
